@@ -1,0 +1,572 @@
+{
+    "flag": "\u0016\u00b4\u000f\u00d8\u008eP\u0089\u00e7\u00eb#&\u00a3^\u001e\u00f2(\u00e0\u00d9\u008f\t\u00e5R;z\u008b\u00b6-6\u009b\u00e8\u0017\u0087\u00af\u0013\u00e25\u0092~{:\u00f43\u00ea\u0087\u000e;\u001c[wJ\u0090%\u0019\u0086\b\u008a\u00da\u00b1\u00a2\u00a6d\u0006\u001d\u00f8\u00b8\u0005\u0018\u001d\u00e1S\u00f9t\u0096\u000f6\u00e5\u00fd\u00d7\u00dc\u0087H\u00e7\u00a6\u00d1s\u008b\u00de?\u00d2]'\u00f3\u001fB\u00a1\u00dchrwW\u0086U\u00b0)q\u0083KT\u0099y\u00ad;[\u00aeO6<\u00ee/I}\u00af\u0080\u00e8:O\u00bfD\u00e5\u00c3\u0093\u00d7\u0010\u00ec\r!\u00be\u00ddq\u00e6\u00dcN\n`\u00a6\u0011$\u00f9\u0099\u00d7\u0017\u0001\u0001\u00b7\u000bw\u008e*\u0087:I-C\u00e2\u00ca\u00ffUr\u00dd%\u00b2}\u00e6\u0011f\u00f5\u0095\u00bbr^R\u0094\u00ad\u0003~\u00af\u00b9\u00e4\u00f7\u0086\u00ea\u0005\u00da\u00dd9\u00b7\u00ff$\u00fe\u00cez7!\u0085U\u00e6\u00cb\u00aa\u0091e\u0011c\u0005I1<\u0010u\u00ab\u0016\u00be\u0087\u00dc\u00c7\u00da|P\u00968\u0098U\u0080?d\u0000*\u001a?\u00e9\u0004\u0095`,\u0007\u0092Q\u00ae\u00f07\u001cG\u00e4:\u001e\u00e0N\u00ceN\u0001\u00bc_R\u008c`\u00d4\u00fd\u00135\u00c6\u00e4\u0083\u0003\u00f7\u0090{+\u008fT\u00be\u00d8\u00dc7{\u00adZ\u0095\u001a'\u00d5\u00d2q\u009b'Tq\u0005\r\u00f6\u00c4;\u001e\u001c\u00ab\u0081\u0013W\u00b4\u00aa\u00d9\u0089t\u00b48cQ\u00f3\u0013[\u00e9\u00b2Y W\u00ce\u009f\u0089\u00e8\u00daA\u009f\u0094\u00f5\u00f8\u00c9j\u00f23G\u00c4\u001a\u00d7\u00c4\u008c\u0090@r\u0080}\u0095&\u00d8\u001aX\u00ff\u008b\u0017\u00b7\u00d6\u00fe*\u00d8X\u008c\u00ec\u0016\u007f\u00a3\u00cd\u00eb\u00905\u001eM\u0083W\u0097\u00e3\u0005S\u00b3'\u00d3\u00d5\u007f\u00cb\u0003\u0088\u001clF\u0016\u0092\u00c7\u00c3Hr\u00c3Y\u00a9\u00a4\u00db\u00efT\u00a6\u0092$\u00b4\u00a1UX\u00a8\u00f1D`k\u0094\u00ef\u00e6\u00a3+\u00901A\u00070\u0003a\u00f6\u00a9\r\u009by\u009f=\u0010Ex\u00d3>m\u00db;\u00a5\u00e7\u000f&}\"a\u00b5*\u00ac/>J\"\u009c\u007f\u00cd\u000bk\t=s}\u001a]\u00d6\u00f4v\u00d9\u00bb\u00a4\u00f5\u00e6\u0010\u00cf.\u0089f\u00abu1\u00a9\u0098U\u00d5\u00b2<\u0011\u0094\u0093\u00fc\u00f8,\u00a3\u00b8\u00ac\u0081\u00f7\u0085\u00cd\u00c4\u00a4\u00f9\u00c8Y\u007f\u00eau\u00b60U\u00d0\u0019\u00bf\u00ee\u0016\u00e8;P\u0082\u00c7\u009a.(l\u00cf=\u0011\u00f8\u00bb\u00e7fm\u001c\u001bL\u0011\u00fd\u008a+\u00d3\u00b8&\u00d2\u00f7\u00e8c\u00b932\u00dc\u00b0J\u00e8\u00a8'd\u0010\u00d0\u00a1\u00cb`\u0088)|<\u00fbt\u0015\u0097\u0099\u00dfV\u00dd\u00e9(\u00f6\u00cbZzcc\u00ee\u00be\u009e\u00b0\u00a2\u00d1\u0006i_\u00a9?\u009f\u00d7f\u00e4ui\u0005\u0083O\u0005\u00cd\u00a1\u001a\u00d6_$\u00e6\u00e7AW\u00f1\u0099\u008a.\u00d8P\u00d3\u00b0\u00ae\u00d9R\u00dc\u00ee\u00cbe\u00fd\u001e\u0000\u00b9\u0015F\u00b2E\u00c9\"\u008d\u00cd\u00cf\u008e\u00b29e\u00fa*\u00f36\u00f9s\u00caQS\u0088J\u00a4f\u0091w\u0019\u0096[\u00fe82\u0007\u00cec\u00f9M\u00c0\u0088I#\u00d4\u00ea\u00bf\u00c6z\u0007B\u00e11\u00eb\u00e2zI\u00ea6C\u00a9\u00db\u000fG\u00d1;\u00aaK\u00f3\u009b^\u00ca.c\u00a5\u00d06k#\u00841A\u001b\u00ca\u00f4\u008e\u00cb\u0012s\u00f0=\u00e9(\u00fc=\u00c7]\u00c3\u0088\u00eb\u0097*\u00d3\u00ae\u00f5Hm\u00d7\u0090\u00e9kSr\u0099@Md\u00c6\u00a2M1\u00d7\b\u00b1\u0011k\u001fX&\u00c8\u00c0\u0002\u001a\u00b2\t\u00b4\u00a0.\u001a\u00aa\u00eb\u0007\u00f5\u001d>\u00dc[1,\u00b6i\u00c0!tc\u00e9;G\u0082\u00ea\u00b2\u0088(\u00e4\u00d0\u00e1\u0080\u00b6Cs\b|\u00cf\u00d3\u001a\u0087\u00a2\u0003C\u0096\u00f2-\u00fc<\u00c9\u0094\u000b\b>;H\u00eb,M\u00efR\u0087\u00a29\u00fad\u0004\nU\rf\u00e3O\u00ee\u0085aOG\u00ff/\u00d9\u00b3|\u00a4\u00cf\u00a2\u00fdj\u0093\n\u00c2xZ\u00f5%\u00fe\u0080 \u00d7\u00a4\u00ea\u0086\u00926/d\u009a\\\u0006\u00a6\u00afH/\u00ec\u00cf\u00e8\u0019\u00ceJ\u00b4'/\u00a0\u00c9\u0085&\u00e7_\u0018_\u000e\u008eV\u0082\u00b2\u000e\u00f0V\u00e93|\u00fd|\u0018\u0089\u008a\u0011$\u00dd\u00a6I4\u00f5Q\u0011\u0088V\n\u00c4\u00e7S\u008e\u00ed\u000e\u00d5\u00fd\u00d6\u00c6\u001e\u00dbxFh!a\u0004\u00ba\u0011\u0006\u00ce\u00ab\u0004\u00c2\u00db\u00b2\u00f4Z\u007f\u001b9\u0099\u0002\u00bc\u00f8\u00e9\u00fe~\u00b9C\u00bej\u009c\u00e4-\u00f6\u00adK\u0081\u009c\u00e4\u00fe\u0093\u00b9Yp\u0086&w\u001f\u0091\u00f4P\u00e5\u00e1l\u00180`\u00e2\"\u00daR/\u001f\u00f8Iw\u0015\u00fc^B\u00ee\u00d9j\u00d5\u00c2`o\u0012\u0094tjeN1\u00ae\u0094\u001b\u0011<\u00a5\u00cd\u00e10*\u0004A\u00ed\u00b3\u0089XF\u00dd\u00a3W\u001b\u00fc\u00f6\u00c4O\u0016'\\\u008e\u0083\u00d5.m\u0019<\u00d61\u00f2=\u00a7\u00fc\u00ce\u00a0\u00d4\u00873C^\u00a4e\u009co\u0083v\u0006$\u0002nC\u00bb\u00e0\u0018\u00dc\u00ee5\u00e7\u009387qc\u00df(\u007f/\u00d7\u0098\u00ce\u00a9\u00a8*\u00bd}L=\u00d1\u0016\u007f\u00c8 (g\u00f23w\u00cdwY\u00ba\u00e2\u00cc\u00b8\u00deP\u00d2\u0002\u00fc\u00ba\u0006\u009f\u00a6\u008dZ\u00d2{\u0015iQtE\u00d5\u0093\u00f1~\u00b4\u00e1\u00b7\u00c1h\u00ae@\u00cc\u00be\u00fd\u009f\u00ff\u0086\u0098\u008b\u0012\u000bf\u00d2\u0092{Z\u0012\u00c6\u00b9W -\u0080\u00edn\u00f5\u009aN\u00ff\u0084\u00f4v\u000e\u0005'\u00b6{F\u00cb\\\u00b7\u0099\u0088\u00e2o2H,\u0014\u00aba\u00fb.\u00ce\u0088\f^Z\u00c1\u00bb\u0084\u00ba\u00d0(\u009eO?R\u0002\u00d2+0\u00c8\n\u00f5}\u00da\u0012~i3*>h\u00d6bA^u}\u00d0\u00baf:P\b\u0003!1\u0085\u00a0\u00fbE\u009e\u00f5\u00ee[>,*\u0011\u00a6\u00a0\u00f0<\u00fdJ\u00c1\u00dd\u00bd\u0099\u0099\u00f1\u00c7\u0089;\u0002-\u00c8#R\u00fb\u0093\u00b6\u00e0\u00da\u00aa\u00cf\u00bf\u0084wV\u009ci\u0086\u0010\"v\u00e8c\u008c\u008e\u0019\u009f\u00d4K\u0011\u00fa\u00ce\u00f2\u009e\u0014a\u00c8\u0090\u008b~k\u0015\u001bfl\u00f4\b\u00bb\u0096\u00ec!f\u000f\u00902\u00c3n\u00d5a\\\u00f1\u00f7\u00d5.\u008e\u00e4\u00ba\u00a8E$\u00e1\u00a2\u0087^\u00de\u00b5\u000e\u00dc\u00c3\u001bVc\u00e5U\u00da\u0017\u00a1\u00e3\u0081\u00d8/\u009b\u0003nl~\u0091\u00cd\u001d\u00f2Y*\u00eaOOf\u00ec\u00e7i\u00ef`\u001d\u0092:\u00a3\u00f1\u00c8i\u00a6\u0015\u00b0\u0085F\u00af\u00b9\u0097\u00bcF\u00c8\u001e\u0088\u00d2\u00ba\u00d6\u00ddN\u00f1\u0086\u0085\u00a1\u00b8\u00a0|\u0089IR,Z[4\u00fcX\u009c?\u0099\u0000m\u0001\u00b8\u00c0\u00baUT+a\u00e1\u00de\u0011\u00da\u009bj@\u0094\u0006\u0007\u0018\u0090\"|\u0088\u0012\u00aa\u001f\u0012/d7\u00a8%:R\u00f3\u001a\u00ad\u00bbnW\u009a\u000b\u0003\u00e8l\u0019\u00f6f0\u0016LcF1\u00c3P\u00acH\u00b3\u0018\u0082\u00d5\u00af\n\u00cf\u0019\u00a1\u009fo\u00e3Sr\u00f7}r\u00ad(MT\u00db=\u001e\u00dc\b\u00fb>_$\u00ebf\u00fd\u00bd\u00c7o\u00b0j!\u009aBW\u00f3\"S0\u00ed\u00cf1[m\u001c\u00ac'WG\u00f3\u0089[_\u008e\u00dd\u0087q\u0018\u00ca\u0007{P\u00d7Y@w\u0014Ae\u00aaM'HW\u00b5}\u00b48\u0096\u00de\u008e\u0088\u00a5\u00c4\u00d4\u00f3\u00f4\u00cb\u00f8?$\u00a8hF\u00e6\u009dW2\u00f2K^\u0018-\u00bb\u008b\u0001\u00c5^\u0007\u00ef)\u0016\u00bb\u00d5\u00e4\u00a7\u008d?\b2~1\u00a0\u00c1m\u00f7:\u0090\u008d\u0016\u0096\u0097\u00f7\u00cc\u00c0\u00fb\u00e1\u00be\u00c6\u00ae\u00a4\u00a9}\u0000\u0016\u0082|\u0002a\u00b5\u00aa\u00fbu\u00d0\u001b\u008b\u00b8Q\u00c7Z\u00ea\u0098\u0013\u009a\u00c1S\u00e9\u008cJ\u0085\u009cc\u00db{ti\u00f6\u00e63\u00c5\u00f7\u00e5\u00d8i3q\u00bbK\u00ea79\u00a3\u009074\u00e3\u009f\u008e\u00e6\u00e5\u00c6\u0088\u0003\u0010\u00a2#\u009f\u00a5\u00dc\u0003*\u00fd\u00f2\u00d3E\u008e\u00ca\u0016l\u00abB\u00de\u009ed;\u0011I5Nr\u00d4\u0012\u009e\u00a3\u008e\u00b0\u001b\u0098\u00c2\u00f9\u007f\u009d\u008b\u008c\u001e\u00f0]\u00de\u0007\u00f3a\u00f0cm\u00e5\u00af\u008e\u00bd!?a\u00aa\u009c\u0012\r #\u00fb9\u00e4:\u00c6\u00ce\r\u00e9\u0099'\u00ea\u001cA\u00de\u0010\u0094\u008e\u0019\u0084,\u0097\u00b3a\u00f4\u001fX\u00fb\u00b4\u00f9(\u0094\u00f1~\u00b5.<\u00c7D\u00ae\u00f5\u00f8\u0003\u008aI\u00ce?\u00fa\u00eaU\u00e3\u00e1a\u00f9\u00c5g<\b\u0011\u009a\u00dc{\u00d0\u00bf\u0018\u0001S\u00bba\u0005\u00ec\u0002\u00dbf\u0018\u0003\u00895%\u00bc\u0001\u0083\u009b\u00ec\u0087\u00ce=\n>\u00af\u00a9\u00f3i\u00e2m\u0092\u0090\u00f2\u00f3\u00a5CI\u001d\u009a\u0012\u001c\u00cc\u00ec\u00e3\u008aq8\u008bS\u00e13\u00b1f\u0005%\u00e30\u00fa\u00a3S\u00f6\u00b8\u001b:\u00fcY;\u00e3\u00b6\u008f\u0012 PZ\b\t\u00be\u0082\u0002\u0016~\u00adc\u00da\u001b\u0017adSF\u00ce(\u00e2\u00c7U2\u00e1\u00ab\u00a3<g\u0095\u00f5n\u0092 0Lu\u00cb\u00ad\u00bc\u00f8\u00d5g\u0081j\u008eC\u00ef\u00a9\u007f\u0086\u009a\u0085\u00b3^\u00c7\u00e7\u00c2(\u00abU\u00aa\u00a1\t\u00de\u00f2\u0001\u00e7\u00a7E\u0080_K\u0088T-\u0005\u0085\n]\u00ea\u008f\u00bbv\u0018\u00d6\u00ba\u0018,\u00bb\u00d0\u00faF1\u00bd_]\u0013\u00ec\u0003*\u00be\u001a\u00b1\u00b9\u0019+\u00131\u001e\u00cbnK\u008c\u00f0\u009a\u00d7\u00b9G\u0092\u00f0W\u00c6\u00fe\u00d9\u00f4(\u00f3\u00c3\u00e3\u00af\u00f5\u008a\u001c7\u0086\u00e6e[\u0019a\u0090\u0018-G\u0001l\u001bGI\u0095\u0093<(\u00ff\u00fd\u0084\u00a7,Va\u00f6\u00a8\u0086\u008f6\u00f3E\u007f\u00ff+z\u0013G\u00cf\u00d7\u00a2\u0087B\u00bf\n/\u00bf\u00b6\u0010\u0091a\u00d4\u00cd\u0096\u00e9\u0006a 'N\u001bT\u0001\u00d0\u008c\u00b3'\u0093<\u00a9\u00d9\u00dd\u00df\u00ee\\+-\u00e0/\u00a0\u00edA\u00bfNTy\u00a2\u009d\u009a\u0085z~\u00b5\u00d0\u00ca\b\u00f1\u00ec*\u00d5\u0081so\u00dfH\u00b4\u00f7\u001d=\u00f9\u0098\u0010\u00c6\u008f[MV\u00e8Qx*\u00ec\u009d\u00e8\u00c7\u00a5)4\u0005l\u00a9\u00dal\u000f\u00f9\u00a3\u0003%VH\u0095o\u00ea~g\u0081\u00a3\u00bcr\u00a3\u00d4\u008aD\u0086\u00fc\u0094v\u00d8\u00cf \u00a4P\u0012\u0083\u000f\u0018Tl\u00fcv\u00ea\u00c3||X\u001a\u0010\u0010j%\u00c92\u00a1\u0082\u0092n\u00c5\u00e8=z\u00c9\u00f8S0\u00018\u00a2U#\u00fb\u00f5#K\u00be\u00b1O\u00b6\u00ec\u00ef\\R?Z)\\\u00ca\u0016\u0099\u0080\u0097\u00daE\u00ca\u00b0\b\u00f9\u00d7l\u008a\u00b0\u00ec\u00b36\f\u0096\u00f0*l\u00db\u001e\u00f63=\u009b\u00f1\u00c5@Y\u00e3\u00aa\u0002Mog.A\u00ce\u00c7\u00d2nS\u00da\u00d3exKdR\u00d0t\u0015\u00e4\u00e6q\u0088O \u0091\u009b\u00d5f\u0093JPR>\u00dcO\u00ba\u00f5\u00fc\u00fd\u00c1\\\u00ff~6p\u00f7\u00ec8pn\u009e\u00dd9\u00f6\u00b0}4\u00b5\u00e7U\u001c\u008de\u00b3\\\u0091\u00f3\u00b3\u00ec\u0082\u0010\u00a3\u00f4\u00df\u00fc\u00ea:\u00bb\u00ec\u0090\u0092\u0005\u009c}\u00a70d\u0089\u0011PU\f\u00ad\u00cd0 J\u009e\u00ea\u00bb\t\u008dM\u00ed\u00eb\u007fN\u00e9\u00b5\u00a2\u00c4$\u0082\u0085Gfm\u0017\u00de\u00b7\u0001|\u00b1@pQ!\u00de\u0092\u00d9O\u00fc\u00a4\u00bbq\u00fe\u00e6\u0011\u00c3\u008e\u00ac<6\u00817e\u00a7\u0082\u00ed\u00bf\u0086\u00f1\u00ee\u00f1Bsz\u00c9CI\u0081\u0086\u0083,\u00b4\u00c3\u00f8\u00ba\u0013F;\u00bb\u00e7v\u00e2\u0010\u00acE3\brY\u00f0\u00120JD\u00d7x\u00ec\u0004)\u00be\u00a2wB\u00c7\u009b\u001f\u001b\u00cd\u00f6\u0099\u000f\u00e7\u00d0[@\u0090h5.\u0084\u00ac\u00f1O\u00ce#\u008fJM\u00da`[1v\u00f0Ug\u007f\u0012K\u00ef\u008c\u00da\u00b4\u0005Hd\b\u0094\u000e\u0012\u00b7'/\u0080\u0088Z\u000b}\r\u0014\u001d\u0010\u00f9\u0015\u0011k\u00d5)\u0098\u00b2\u0083\u0013\u00a1\u0090\n4Ie\u00d6EhK9\n\u00838\fT\u00ab`x\u001ay\u00e2\u00e9B\u0088\u00d3*\u00bc\u00affB\u00f2L\u0002\u008c\u00eaD@\u00dd\u0083\u00f2v\u00cc\u001d\u00a7\"r}\u00beXI5\u00c30F\u00c7\u00e2,\u008c\u008d\u00df'\u00c7\u00b7s\u0011\u00a4\u00ea\u00f4\u00e1\u00b0\u00c7\u00d9\u00bf\u000e}\u00ec[o\u00a4\u0091\u00ddEg\u00c7\u00e3\u0012\u00c1\u00a7\u001d\u00dcKq\u00d44\u0092\u00ea\u00b9#,\u00da5\u0093\u0099\u00ecm\u00b4\u00ba\u00f7KecS\b\u00e4\u00beU\u001f\"Q\b\u00bb\u00b4\u00ea\u00dc\u0003\u0091t\u0092\u0007\u0014\u001c\u009f\u001f\u00c4`m\u0098R\u0085\u00cb\u00ad/\u00a6\u00a5]\u00f9\u001bX\u0081\u00a7h-\u0013\u00b0\u009dV\u00c9\u0007ICR\u00ab\u00ca*\u00c5\u0012E\r\u00c4\u00e8\u00c4\n\u00bett\u0088\u001f'\u00e0\u0010\u00aa\u00be\u00f4\n\u00ea\u0002:\u00d2O\u008a\u001e,\u00de\u00b3\u00a7\u0005\u00a3\u008d\u00ed\u0002}Wn\u00b5@\u0005b!Arp0\u00c7\u00e113$^\u00a6\u0004\u00f1\u0016^\u00b3\r8\u0018\u00b3<!\u00ec\u00dc16u>\u0083\u0095\u00a8J\u0099\u00f9K\u00fd\u0098f\\B\u009e\u00d7:n{\u00d0n\b\u0010q4~ \u00c0\u0010bF#\u00fe\u00d5\u0096\u00bf\b\u0016\u00b3H\u00f4X_f\u0086\u00e6\b:\u00bd\u00b3m\u00ef|\u00b5\f\\\u00f3\u00b4P\u00fd\u00f1\u00c2I\u00a6\u00dd\u009a#\u00e8\u0093~\u00d5E\u00da\u001f\u0011+,\u0082mX\u00baIm]\u00c3\u00ac\u00fd\u00e5k\u00f5\r\u00e2\u0081H\u000e\u0019\u00dc\u00ea\u0098\u00e9\u00cd\u0015V\u0018/\u00f8&\u001f\u0099\u00d7\u00b1\u00f8_\u00d3\t\u00c6\b\u00b6@|\u00ce\u00cb\u00bf\u0096\u00ab\u00aa`\u0088L\u00db\u008f\u00cf\u00d5Pn\u00c1\u00e6\u00bb\u00f3~\u000f\u0084\u0006E\u00c5-\u0096+\u00a6\u001fQ!QY\u00ca\u00bf\u00e3\u00e1\u00a2S\u00d8I(\u00e1\u00df)>\\\u00ef\u00a3A\u007fV\u00ef\u00d2\u00ac\u008e=^\u00cd\u00e6!\u00bc\u00f7j\u00a1\u00b5\u008c\u00adA\u001d\u0090'\u008b\u00c9\u001f\u0099\u00f9\u00ca+\u0085t/d>]X]%\u00f1Rf{\u00ffz7\u00e0g\n \u00e4`\u008f\u00bdS}\u00b6\u00ef%+\u0099Y&\u00ed\u00f7~\u008f\u00a0Z}\u0019\u00bb\u008bU\u00ed\u00d2j\u00c0\u0000\u00ef\u0014\u00e7Xw \u00f1\u00c5\u00e2\u00ab\u00ff&\u00e4\u0019\u00d1\u0081u\u00d9\u0087L,\u0006\u00d7\u00ca;\u00d4\r\u00da\u001a\u00ba\u009fz\u00d4Zp\u00a1e\u00f6\u00a8f\u00dd\u00bcn{\u00b7\u0086\u00b9`\u00b8\u0094\u00c6V|\u0082\u00edD\u0080\u00dc\u0081\u00ae-\u00cdQ\u0002\u0098A\u0000W\u00cas\u00c2w\u00a5\u0087\u008e\u009c\u0003\u001f\u00b83b\u0000m\u00bcL\u00a9e-\u00c7@\u00bb\u00ad\u0004X\u00b5\u00d9\u00ab\u00eb\u00e9>\u0084\u001eW\u0084\u00e2Z'\u00bc\u0011\u00e4\u00e6\u00c5C\u00ba\u0018\u0006\u0007\u00b1\u00a0\u0097tC\u00c4\u0017\u0088\u001e\u00bb:\u00c8\u00dc\u009cv\u00ab\u00cd\\\u00f4}\u00ba\u00e2\u00fdf\u00a9\u00dbu\\!\u00ad.\u0088z\u00e3v\u00bdL0\u00ca\u00deD@\u00b7\u00ca\u009d%7'\u00e1\"\u00dc\u001d\u00e4\u00c2\u0095;\u00bd\u008cG\t\u0081\u00fb\u00fcs\u00da@\u0000\u00a4\u00e0Dd;$d\u00e9\b\u00f5\u0016\u00a4&\u0082\u00e9\"\u00ec\u0087M\u00ed\u0081i\u001f\u00d2\u00f1\u0001\u0089\u00f5@b\u001be\u0092 \u00f0\u00f6\u00cf\u00ba\u00aaZ\u00ba\u00c3\u00b4?\u0006\u00e4$\u001a\u008c\u00850FD\u0006\u00fc\u00c94N\u00f8\u0087F\u0010\u0090\u0015\u0001\u00c7z}\u00b8\u00f6\u0080\u00da~G\u00b5K\u00f3\u00f1\u009f\u00b1\u00bb\u0096\u001b\u00e1Ky\u00a2h;{\u00a9\u00ab\u00d2\u000f\u00cb~\u0082\u00b58\u0006w\u00f8\u00c9;\u00a1U+n\u0090f \u00d0aBD\t\u001e\u001e\u007f;\u00be=\u00e7\u00bd?\u00fa\u00df\u00df\u008eG\u009dRcv\u0095\u001f\u009c\u0089+\u00bd\u00c0\u0000\u0018/s\u00db\u00ee\u00ed\u008e8\u00a3]\u001bB'\u009d\u00e4\u00c0\r\u00f8F\u00e8\u00e3w9Av[\u00f8\u00f9\u00f4\u00967@\u00f5\u00e2\u00de\u00c2\u00cdQ\u00f1\u00ee\u0090\u00003\u001d\u009em9\u00cd\u001et\u001f\u0086S>\u000e\u00bb\u00d6nF+\u0003[\u00b4\u0014k\u00be\u00d3T\u00bf\u0017\u00e2\u00e2\u0003M+;\u00ef\u0097|\\\u0082gq#\u00ff\u00b0\u00bd\u008b\u0098\u00f3\tWC(\u0007\u0097\u00ab?\u00b6\u00a1\u00f2\u00ba\u00c8\u0095\u00a8\nJ\u0090\u00dc\u008c\u008e\u00ed\u008f\u0014\u00a7n\u0011\u0094hS\u0099LL\u008aP\u00f5p\u00d0\u00c4\u00f2\u00abI=5!\u00e6\u00c9l\u00b5\u00cb*\u00aaj\u00d9bwW\u0096>\u0002\u0004D\u00dfnz\u00a5\u00e4U\u00ceE%\u001fZ(`\b\u0081\u0007S\u00b1\u00cc\u00d9or\u00ca\u00b1\b\u00890\u0010\u0087|c\u0003tn\u00cad\u00f4\u00c3\u001a\u00be!\u0014\u001b\u00fa\u00a9t\u0096(\u0098\u0081\u00af;\u001f\b\u008dI\u001e\u00d4\u0098\u0096\u00fcm\u001a\u00fc{u\u00df\u001f\u0096^\u0090\u000f\u00cd\u0000\u0096xL-\u0096D\u00f6q6\u00c3\u00c6\u009dl\u008a\u0006{\u001f\u00cct\u00e2\u00d9\u00ab\u00ed\u00ff-\u00a2\u00cd\u008cs-U\u009c)%k^\u00c6\u0017\u00c3\r\u00f0/\u00ffz\u00cd Q\u00a7\u0082\u00c9OYL\u00e8\f\u0016\u0016\u00ff\u0011\u00dek\u00b5\\\u00cfW\u00f7\u0005\u0089\u00c1]\b\"\u00d9\u00a5\u0016OGC\u00e8\u00d5\u00b4\u000f\u0006\u00af\u00a1@h\u00d8Y\u00f6\u009d\b\u0016\u00eb\u0080\u00ba\u0082\u0093\u00dc\u00f8L\u00d3\u0004\u0090j\u0090?\u00e3ha\u0002>\u00df\\\u0090H\u00c6u\u00e1\u00b3g<\u00b5\u00cb!\u008d\u0082\u00a9\u00937\u00df\u0081\u00f5$\n\u00ba\u00bcp\u009c\u00db!d\u00b47\u00cfJm\u00ef\u0015E\u00ad0\u00bdU \u0098\u00ea`\u00ef\u00d2\u0092\u00b4\u0004\u00a5m9\u00d1b\u00fc\u009a\u00bb?b\u0096\u00ee6\u0090\u008c\u000b\u0082\u0097\u00eb\u00af\u00b4\u00e1\u000b&\u008f\u00b3\u00ee;\u0002\u0089?\u00ab+\u0098EZ\u00c9\f\u00b6\u00d5(\u009f\u001f\u00c3\u00f3\u00e1\u00ca\u0088`\u00fcr${\u00d7\u00ba\u00c8\u00f3\u00aa\u00af\u00df6\u009f\u00f8\u00e6 $\u00d5&^\u00b1]\u00c8\u001a\u0002\u0099\u009f9W\u00c6z\u00b1\u0086I\u00aa\u0084Hz\u008c\u00cdt\u0013\u0000T\u00d4\u0090\u0004\u00beaG\u0095I\u009c\u00fb\u0001k\u000eo6\u00e0\u009cN\u00b9\u00e4d\u00b3\u0007\u00e1\u00bc\u0005\u00a5R\u00af\u008f\u0080\u00a5?\u00bf\u00ad{N\u00ba\u00e1\u00f9\u0092r\u00cb#\u00b0\u00c9\u0010m.8\u0011oNx\n\u000b\u00b5\u009cU4\u0096\u0092\u00cc*\u0093J\u00f1(\u00ce\u00aaT\u00be^\r\\\u00b3\u00db\u009c\u00ee\u00103\u0093\u00b1\u00d9\u00c0\u0088\u00b2'Ai\u0089\u00ea3\u00ad':~C\u0084\u00c2\u00b1(<\u00f5jg\u0093\u00eb_\u00d4\u00bb\u00b8%LAl\u008c\u00af\u00a9E\u0003\u0013[\u00cb\u00da,\u00ff\u00bc\u009b\u0014\u00a25\u00ffJ\u0005\u00a0\u00b8?\u00c6\u00a0Y\u00cb\u0099__<\u00fb!\u00b1\u0084\f\u0005\u000e\u0080\u00c8T\u00f0xB\u009egY9~\u0088\r\u0093\u00c6\u00f6U\u00f1\u0014\u00dc\u00d3q\u00ef\u00e1\u008c\u00bfk\u00ac\u00cb\u0006\u00a7\u00a8\u00d0\u008e\u00b4o\u00f7\u00e9%<q\u009c\u00fa\u00a2\u00fe\u00d6\u009a\u000712#\u009d|\u0013;2\u0081\u0081\u001f\u001eDeYa\u0013\u00e1\u0006\u0092*\u00a0\u001f\u00e2*\u009aw\u000eB\u00edl\u00f2f\u000e\u0087B\t\u0097u\u0080\u00fc\u00a9m\u00c8",
+    "interaction": [
+        [
+            "read",
+            4096,
+            "reset\n"
+        ],
+        [
+            "write",
+            30,
+            "Please re-enter state machine\n"
+        ],
+        [
+            "read",
+            4096,
+            "onmatch magic\n"
+        ],
+        [
+            "write",
+            21,
+            "Match action updated\n"
+        ],
+        [
+            "read",
+            4096,
+            "state\ntransition a 1\nstate accept\ndone\n"
+        ],
+        [
+            "write",
+            23,
+            "Ok, matching input now\n"
+        ],
+        [
+            "read",
+            4096,
+            "a\n"
+        ],
+        [
+            "write",
+            53,
+            "I'm thinking of a magic number, can you guess it?!?!\n"
+        ],
+        [
+            "read",
+            4096,
+            "127"
+        ],
+        [
+            "read",
+            4096,
+            "\n"
+        ],
+        [
+            "write",
+            14,
+            "Whoa, too big\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "63\n"
+        ],
+        [
+            "write",
+            17,
+            "Haha, too small!\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "95\n"
+        ],
+        [
+            "write",
+            17,
+            "Haha, too small!\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "111\n"
+        ],
+        [
+            "write",
+            17,
+            "Haha, too small!\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "119\n"
+        ],
+        [
+            "write",
+            14,
+            "Whoa, too big\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "115"
+        ],
+        [
+            "read",
+            4096,
+            "\n"
+        ],
+        [
+            "write",
+            14,
+            "Whoa, too big\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "113\n"
+        ],
+        [
+            "write",
+            17,
+            "Haha, too small!\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "114\n"
+        ],
+        [
+            "write",
+            12,
+            "Just right!\n"
+        ],
+        [
+            "write",
+            9,
+            "0000005b\n"
+        ],
+        [
+            "read",
+            4096,
+            "reset\n"
+        ],
+        [
+            "write",
+            30,
+            "Please re-enter state machine\n"
+        ],
+        [
+            "read",
+            4096,
+            "onmatch magic\n"
+        ],
+        [
+            "write",
+            21,
+            "Match action updated\n"
+        ],
+        [
+            "read",
+            4096,
+            "state\ntransition b 1\nstate accept\ndone\n"
+        ],
+        [
+            "write",
+            23,
+            "Ok, matching input now\n"
+        ],
+        [
+            "read",
+            4096,
+            "b\n"
+        ],
+        [
+            "write",
+            53,
+            "I'm thinking of a magic number, can you guess it?!?!\n"
+        ],
+        [
+            "read",
+            4096,
+            "127\n"
+        ],
+        [
+            "write",
+            14,
+            "Whoa, too big\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "63\n"
+        ],
+        [
+            "write",
+            17,
+            "Haha, too small!\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "95\n"
+        ],
+        [
+            "write",
+            17,
+            "Haha, too small!\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "111\n"
+        ],
+        [
+            "write",
+            17,
+            "Haha, too small!\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "119\n"
+        ],
+        [
+            "write",
+            12,
+            "Just right!\n"
+        ],
+        [
+            "write",
+            9,
+            "00000056\n"
+        ],
+        [
+            "read",
+            4096,
+            "reset\n"
+        ],
+        [
+            "write",
+            30,
+            "Please re-enter state machine\n"
+        ],
+        [
+            "read",
+            4096,
+            "onmatch magic\n"
+        ],
+        [
+            "write",
+            21,
+            "Match action updated\n"
+        ],
+        [
+            "read",
+            4096,
+            "state\ntransition c 1\nstate accept\ndone\n"
+        ],
+        [
+            "write",
+            23,
+            "Ok, matching input now\n"
+        ],
+        [
+            "read",
+            4096,
+            "c\n"
+        ],
+        [
+            "write",
+            53,
+            "I'm thinking of a magic number, can you guess it?!?!\n"
+        ],
+        [
+            "read",
+            4096,
+            "127\n"
+        ],
+        [
+            "write",
+            14,
+            "Whoa, too big\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "63\n"
+        ],
+        [
+            "write",
+            17,
+            "Haha, too small!\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "95\n"
+        ],
+        [
+            "write",
+            14,
+            "Whoa, too big\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "79\n"
+        ],
+        [
+            "write",
+            17,
+            "Haha, too small!\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "87\n"
+        ],
+        [
+            "write",
+            12,
+            "Just right!\n"
+        ],
+        [
+            "write",
+            9,
+            "00000060\n"
+        ],
+        [
+            "read",
+            4096,
+            "reset\n"
+        ],
+        [
+            "write",
+            30,
+            "Please re-enter state machine\n"
+        ],
+        [
+            "read",
+            4096,
+            "onmatch magic\n"
+        ],
+        [
+            "write",
+            21,
+            "Match action updated\n"
+        ],
+        [
+            "read",
+            4096,
+            "state\ntransition d 1\nstate accept\ndone\n"
+        ],
+        [
+            "write",
+            23,
+            "Ok, matching input now\n"
+        ],
+        [
+            "read",
+            4096,
+            "d\n"
+        ],
+        [
+            "write",
+            53,
+            "I'm thinking of a magic number, can you guess it?!?!\n"
+        ],
+        [
+            "read",
+            4096,
+            "127\n"
+        ],
+        [
+            "write",
+            17,
+            "Haha, too small!\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "191\n"
+        ],
+        [
+            "write",
+            14,
+            "Whoa, too big\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "159\n"
+        ],
+        [
+            "write",
+            14,
+            "Whoa, too big\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "143\n"
+        ],
+        [
+            "write",
+            14,
+            "Whoa, too big\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "135\n"
+        ],
+        [
+            "write",
+            14,
+            "Whoa, too big\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "131\n"
+        ],
+        [
+            "write",
+            17,
+            "Haha, too small!\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "133\n"
+        ],
+        [
+            "write",
+            17,
+            "Haha, too small!\n"
+        ],
+        [
+            "write",
+            7,
+            "WRONG!\n"
+        ],
+        [
+            "read",
+            4096,
+            "134\n"
+        ],
+        [
+            "write",
+            12,
+            "Just right!\n"
+        ],
+        [
+            "write",
+            9,
+            "00000059\n"
+        ],
+        [
+            "read",
+            4096,
+            "quit\n"
+        ]
+    ],
+    "pov_answer": "rwW\u0086",
+    "pov_answer_correct": true
+}

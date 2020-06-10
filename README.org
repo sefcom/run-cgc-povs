@@ -2,7 +2,7 @@
 
 This repository will run the Cyber Grand Challenge proof of vulnerabilities and collect the interactions made.
 
-* Run Tests
+* Usage
 
 #+BEGIN_SRC sh
 docker build -t run-cgc-povs .
@@ -17,4 +17,4 @@ docker run -it --rm -v $PWD/results:/results run-cgc-povs
     + According to trailofbits porting-notes.txt, "SBTP wants to hash its .text. It assumes this goes from go() to longjmp()." (https://github.com/trailofbits/cb-multios/blob/master/disabled-challenges/SBTP/porting-notes.txt)
 ** Misc
 *** CROMU_00088
-    + Needs a high (60s) timeout
+    + Needs a high (120s) timeout

@@ -139,7 +139,7 @@ def work(challenge, pov_path, target_path):
         try:
             proc = subprocess.run(['./run.py', pov_path, target_path],
                                   capture_output=True,
-                                  timeout=60)
+                                  timeout=120)
             result = json.loads(proc.stdout)
         except subprocess.TimeoutExpired as e:
             result['error'] = str(e)

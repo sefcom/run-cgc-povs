@@ -111,19 +111,19 @@ def run(pov_path, target_path, *, flag=None, result=None):
 
     result['interaction'] = []
 
-    selected = False
-
     while True:
         pid, status = os.wait()
-        if not os.WIFSTOPPED(status):
-            break
 
-        sig = os.WSTOPSIG(status)
-        if sig != signal.SIGTRAP:
-            result['signal'] = sig
-            break
+        if pid == target_popen.pid:
+            sig = os.WSTOPSIG(status)
+            if sig and sig != signal.SIGTRAP:
+                result['signal'] = sig
+                break
+            if not os.WIFSTOPPED(status):
+                break
 
-        assert pid == target_popen.pid
+        else:
+            continue
 
         regs = user_regs_struct()
         libc.ptrace(PTRACE['GETREGS'], pid, 0, ctypes.byref(regs))
@@ -138,16 +138,18 @@ def run(pov_path, target_path, *, flag=None, result=None):
             if reading and syscall_start:
                 count = regs.rdx
                 data = pov_popen.stdout.read1(min(count, io.DEFAULT_BUFFER_SIZE))
-                result['interaction'].append(('read', count, data.decode('latin')))
                 target_popen.stdin.write(data)
                 target_popen.stdin.flush()
+                result['interaction'].append(('read', count, data.decode('latin')))
+                if not data:
+                    break
 
             elif writing and not syscall_start:
                 count = regs.rdx
                 data = target_popen.stdout.read(count)
-                result['interaction'].append(('write', count, data.decode('latin')))
                 pov_popen.stdin.write(data)
                 pov_popen.stdin.flush()
+                result['interaction'].append(('write', count, data.decode('latin')))
 
         except BrokenPipeError:
             break
