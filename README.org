@@ -1,0 +1,20 @@
+* Run CGC PoVs
+
+This repository will run the Cyber Grand Challenge proof of vulnerabilities and collect the interactions made.
+
+* Run Tests
+
+#+BEGIN_SRC sh
+docker build -t run-cgc-povs .
+docker run -it --rm -v $PWD/results:/results run-cgc-povs
+#+END_SRC
+
+* Challenge Information
+** Not Working
+*** NRFIN_00071
+    + Makes use of `select` system call
+    + According to the challenge author, "Vulnerability requires an awareness of timing, as the vulnerable code path will not be triggered unless a timeout occurs." (https://github.com/lungetech/cgc-challenge-corpus/tree/master/NRFIN_00071)
+    + According to trailofbits porting-notes.txt, "SBTP wants to hash its .text. It assumes this goes from go() to longjmp()." (https://github.com/trailofbits/cb-multios/blob/master/disabled-challenges/SBTP/porting-notes.txt)
+** Misc
+*** CROMU_00088
+    + Needs a high (60s) timeout
