@@ -10,6 +10,14 @@ docker run -it --rm -v $PWD/results:/results run-cgc-povs
 #+END_SRC
 
 * Challenge Information
+** Case Studies
+*** NRFIN_00064
+    + Game with a set of simple controls and treasure.
+    + The treasure is always in the same location, but the control change every time you play.
+*** NRFIN_00046
+    + Involves several simple echo challenge responses
+*** KPRCA_00112
+    + Must be able to solve sudoku
 ** Not Working
 *** NRFIN_00071
     + Makes use of `select` system call
